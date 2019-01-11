@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT danielsreviewcrowdbot_668.wsgi:application
